@@ -29,17 +29,11 @@ A machine learning project that predicts whether a person earns more than $50K p
 <div align="center">
 
 ![Target balance](./images/01_target_balance.png)
-
 ![Capital gain skew](./images/02_capital_gain_skew.png)
-
 ![Feature correlation](./images/03_correlation.png)
-
 ![Income rate by group](./images/04_income_rate_by_group.png)
-
 ![Confusion matrix](./images/05_confusion_matrix.png)
-
 ![ROC curve](./images/06_roc_curve.png)
-
 ![Odds ratios](./images/07_odds_ratios.png)
 
 </div>
