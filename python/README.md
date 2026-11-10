@@ -5,7 +5,7 @@ An online store sells in six product categories, four regions and five payment m
 
 ## 2. Dataset
 - **Name:** `amazon_sales_dataset.csv` 
-- **Source:** Amazon sales dataset supplied for this assignment (source link: add the Kaggle/original link here if you have it)
+- **Source:**(https://www.kaggle.com/datasets/aliiihussain/amazon-sales-dataset)
 - **Size:** 50,000 rows and 13 columns, covering 1 Jan 2022 to 31 Dec 2023
 - **Key columns:** `order_date`, `product_category` (6 values), `price`, `discount_percent` (0 to 30), `quantity_sold` (1 to 5), `customer_region` (4 values), `payment_method` (5 values), `rating` (1 to 5), `review_count`, `discounted_price`, `total_revenue`
 
