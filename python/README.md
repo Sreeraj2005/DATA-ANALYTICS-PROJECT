@@ -32,7 +32,7 @@ Python 3, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn
 
 **Note:** the data is unusually even across almost every column, which suggests it is simulated or sample data, so results should be checked on real sales data before making business decisions.
 
-## 6. Screenshots or Output
+## 6.Visualizations
 ![Revenue by category](images/01_revenue_by_category.png)
 ![Region and payment](images/02_region_payment.png)
 ![Monthly revenue](images/03_monthly_revenue.png)
