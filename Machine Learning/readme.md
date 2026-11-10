@@ -1,4 +1,4 @@
-# Project 2: Predicting Income Level with Logistic Regression
+#  Predicting Income Level with Logistic Regression
 
 A machine learning project that predicts whether a person earns more than $50K per year using census-style attributes such as age, education, occupation, and marital status.
 
@@ -23,6 +23,26 @@ A machine learning project that predicts whether a person earns more than $50K p
 4. **Split and train:** 80/20 stratified split with `random_state = 42`.
 5. **Evaluation:** confusion matrix, precision, recall, F1-score, ROC-AUC, 5-fold cross-validation, and threshold comparison on the test set.
 6. **Interpretation:** analyzes odds ratios and explains the model's strongest predictors, reliability, and limitations.
+
+## Visuals
+
+<div align="center">
+
+![Target balance](./images/01_target_balance.png)
+
+![Capital gain skew](./images/02_capital_gain_skew.png)
+
+![Feature correlation](./images/03_correlation.png)
+
+![Income rate by group](./images/04_income_rate_by_group.png)
+
+![Confusion matrix](./images/05_confusion_matrix.png)
+
+![ROC curve](./images/06_roc_curve.png)
+
+![Odds ratios](./images/07_odds_ratios.png)
+
+</div>
 
 ## Results (test set)
 
